@@ -63,7 +63,7 @@ class Router extends electronicDevice {
 }
 
 
-// creating s22010005 class (My online marketplace name)
+// creating d class (My online marketplace name)
 public class s22010005 {
     public static void main(String[] args) {
         
